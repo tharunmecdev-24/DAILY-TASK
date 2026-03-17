@@ -1,0 +1,91 @@
+BLOCK 6 – CORE CS CONCEPTS
+
+DBMS CONCEPT – FOREIGN KEY
+
+A Foreign Key is a column in one table that refers to the Primary Key
+of another table. It creates a relationship between tables.
+
+Example
+
+Student Table
+
+StudentID | Name
+1         | Rahul
+2         | Priya
+
+Enrollment Table
+
+StudentID | Course
+1         | Java
+2         | Python
+
+Here StudentID in Enrollment is a Foreign Key.
+
+####################################################################################################33
+OPERATING SYSTEMS CONCEPT – CPU SCHEDULING
+
+CPU Scheduling determines which process gets CPU time.
+
+Common algorithms:
+- FCFS (First Come First Serve)
+- SJF (Shortest Job First)
+- Round Robin
+- Priority Scheduling
+
+Example
+
+Process | Burst Time
+P1      | 5
+P2      | 3
+P3      | 2
+
+#################################################################################################################3
+NETWORKING CONCEPT – OSI MODEL
+
+The OSI Model has 7 layers.
+
+1. Physical
+2. Data Link
+3. Network
+4. Transport
+5. Session
+6. Presentation
+7. Application
+
+When you access a website, data travels through these layers.
+
+################################################################################################################################3
+CORE COMPUTER SCIENCE CONCEPT – RECURSION
+
+Recursion occurs when a function calls itself.
+
+Example
+
+def factorial(n):
+
+    if n == 0:
+        return 1
+
+    return n * factorial(n-1)
+
+Example
+
+factorial(5)
+
+Output
+120
+
+###################################################################################################3333
+INTERVIEW QUESTION OF THE DAY
+
+What is the difference between Primary Key and Foreign Key?
+
+Primary Key
+- Uniquely identifies each row
+- Cannot be NULL
+- One per table
+
+Foreign Key
+- References primary key in another table
+- Can have duplicates
+- Multiple allowed
