@@ -1,0 +1,88 @@
+BLOCK 1 – APTITUDE (Time & Work – Moderate)
+
+Question 1
+A can complete a work in 10 days and B in 15 days. How long will they take together?
+a=10 days b=15 days
+1/10+1/15
+3+2/30
+1/6 reciprocal 
+ ans :6 days
+
+----------------------------------------------------------------------------------------------------------
+Question 2
+A, B and C can complete a work in 6, 8 and 12 days respectively.
+How many days will they take working together?
+
+1/6+1/8+1/12
+we make denaminator equal
+(4+3+2)/24
+9/24=3/8
+ ans :8/3
+
+-----------------------------------------------------------------------------------------------------------
+
+Question 3
+A alone can do a work in 12 days. After 4 days, B joins and completes remaining work in 4 days.
+Find time taken by B alone.
+A=4/12 =1/3
+rem work 1-1/3=2/3
+combined work
+(2/3)/4=
+ans :1/6
+
+------------------------------------------------------------------------------------------------------------
+Question 4
+If 5 workers can complete a work in 8 days, how many workers are required to complete it in 4 days?
+M1D1=M2D2
+5*8=m2*4
+40=4m2
+ ans :m2=10 workers needed to complete the task.
+----------------------------------------------------------------------------------------------------------------------------------------
+Question 5
+A pipe fills a tank in 6 hours and another empties it in 8 hours.
+How long to fill the tank?
+tank  fill =1/6
+empty=1/8
+we need to find how long it will fill the tank
+1/6-1/8
+(4-3)/24=1/24
+ ans :24 hours
+
+ -------------------------------------------------------------------------------------------------------------------------------------------
+BLOCK 2 – VERBAL ABILITY (Advanced)
+
+Reading Passage
+
+Efficient algorithms and optimized systems are critical in large-scale applications.
+Companies like Amazon and Google rely heavily on scalable architectures.
+
+Questions
+
+1. Why are optimized systems important?
+success of large-scale applications.
+
+2. What does scalability mean in real-world applications?
+handle growth and increase amount of work efficiently
+
+
+3. Name companies that depend on scalable systems.
+amazon and google
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Grammar Correction
+
+1. He didn’t knew the answer.
+he didn't know the answer
+
+
+2. She is more smarter than him.
+she is smater than him.
+
+
+3. They has completed the task.
+
+they have completed the task
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,45 @@
+BLOCK 6 – CORE CS CONCEPTS
+
+DBMS CONCEPT – INDEXING
+
+Indexing improves query performance by reducing search time.
+
+Types:
+- Primary Index
+- Secondary Index
+
+===========================================
+OPERATING SYSTEMS CONCEPT – MEMORY MANAGEMENT
+
+Memory management handles allocation and deallocation of memory.
+
+Concepts:
+- Paging
+- Segmentation
+- Virtual Memory
+
+===========================================
+NETWORKING CONCEPT – DNS
+
+DNS converts domain names into IP addresses.
+
+Example:
+google.com → IP address
+
+===========================================
+CORE COMPUTER SCIENCE CONCEPT – HASHING
+
+Hashing maps data to fixed-size values.
+
+Used in:
+- HashMaps
+- Caching
+- Databases
+
+===========================================
+INTERVIEW QUESTION OF THE DAY
+
+What is indexing in DBMS and why is it used?
+
+Answer:
+Indexing improves search performance by allowing faster data retrieval.
