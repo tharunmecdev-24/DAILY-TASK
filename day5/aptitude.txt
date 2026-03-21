@@ -1,0 +1,92 @@
+
+
+
+BLOCK 1 – APTITUDE (Speed, Time & Distance)
+
+Question 1
+A train travels 60 km in 1 hour. What is its speed in m/s?
+
+1km/h= 5/18 m/s
+60*5/18
+=16.67m/s.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+Question 2
+A car travels at 40 km/h for 2 hours and 60 km/h for next 2 hours.
+Find average speed.
+
+first=40km in 2hrs  80km
+second =60km in 2 hrs  120
+total time =4hrs
+avg speed=200/4
+=50km/h
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Question 3
+Two trains moving in opposite directions at 50 km/h and 70 km/h.
+Find relative speed.
+opp dir->speed we need to add
+50+70
+=120km/h
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+Question 4
+A person walks at 5 km/h and runs at 10 km/h.
+Find time taken to cover 15 km if half distance is walked and half is run.
+time=dis/speed
+walking 7.5/5=1.5 hr
+running 7.5/10=0.75hr
+total time 1.5+0.75=2.25hr
+0.25hr=15min
+2hr 15 min
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Question 5
+If a train crosses a pole in 10 seconds and its length is 100 meters,
+find its speed.
+
+train len=100m
+time=10sec
+speed=distance/time
+=100/10=
+10m/second
+con to km/hr
+10*18/5=36km/h.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+BLOCK 2 – VERBAL ABILITY (Advanced)
+
+Reading Passage
+
+Algorithms play a crucial role in optimizing system performance.
+Efficient algorithms reduce execution time and resource consumption.
+
+Questions
+
+1. Why are algorithms important?
+optimizing system performance .
+
+
+2. What happens if inefficient algorithms are used?
+it increase more execution time and resource consumption.
+
+
+3. What is optimization in computing?
+it means improving performance by reduce time while execution.
+
+##################################################################################################################################
+
+Grammar Correction
+
+1. He have been working here since 2 years.
+
+He has been working here for 2 years.
+
+
+2. She did not wrote the code.
+She did not write the code.
+
+3. They is preparing for interviews.
+They are preparing for interviews.
+
+
+
