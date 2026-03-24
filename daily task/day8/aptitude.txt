@@ -1,0 +1,103 @@
+BLOCK 1 – APTITUDE (Mixtures & Averages)
+
+Question 1
+The average of 5 numbers is 20. Find the total sum.
+
+    avg=tot sum/number of values
+    sum=avg*num of values
+    sum=5*20
+    sum=100
+
+Question 2
+The average of 10 numbers is 15. If one number is removed, the average becomes 14. Find the removed number.
+
+sum=avg*count
+15*10=150
+14*9=126
+150-126
+=24
+removed num is 24
+
+Question 3
+A container has milk and water in ratio 3:2. If 10 liters of water is added, ratio becomes 3:4. Find initial quantity.
+    milk=3x
+    water=2x
+    total we need to add 3x+2x=5x
+    10 litre water is added so
+    3x/2x+10=3/4
+    4*3x=3(2x+10)
+    12x-6x=30
+    6x=30
+    x=5
+    total 5x=5*5
+    25 litre
+
+Question 4
+Find average of first 20 natural numbers.
+
+avg=(1+2+3+4+5.....20)/20
+avg=10.5
+
+
+Question 5
+The average age of 5 students is 18. A new student joins and average becomes 19. Find age of new student.
+
+
+    tot stu=24
+    5 stu avg=
+    5*18=90
+    new age
+    6*19=114
+    new age =114-90
+    24
+
+
+
+
+===========================================
+BLOCK 2 – VERBAL ABILITY
+
+Reading Passage
+
+Data structures help organize and store data efficiently so that operations
+like searching, inserting, and deleting can be performed quickly.
+Choosing the correct data structure improves performance significantly.
+
+Questions
+
+1. Why are data structures important?
+
+    helps to organize and store 
+
+
+
+2. Name some operations performed on data.
+        searching
+        inserting
+        deleting
+
+
+
+3. How does choosing the right data structure help performance?
+
+    improves performance significantly and efficiently.
+
+
+
+
+Grammar Correction
+
+1. He don’t understand data structures.
+
+    he doesn't understand data structures.
+
+
+2. She have completed the assignment.
+
+        she  has completed the assignment.
+
+
+3. They was working on the project.
+
+    they were working on project.
+
